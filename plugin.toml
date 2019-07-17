@@ -1,0 +1,4 @@
+[plugin]
+description = "run a pid-1 compatible init process by default"
+version = "0.0.1"
+[plugin.config]
